@@ -1,0 +1,128 @@
+.mainclass{
+
+  background-position: center center;
+ background-size: 100%;
+
+   background-repeat: no-repeat;
+
+ }
+ .rowback{
+   background-color: #EDF1F7;
+   background-size: cover;
+ }
+
+
+
+
+
+ .demo{
+   font-family: 'Varela Round', sans-serif;
+ }
+
+ .maintext{
+   font-size: 33px;
+   color: #424141;
+   font-weight: bold;
+   text-align: center;
+ }
+ .subtext{
+   padding-top: 10px;
+   font-size: 18px;
+   color: #8d8585;
+   text-align: center;
+   padding-left: 20px;
+   padding-right: 20px;
+ }
+ .subsubtext{
+   color: #8d8585;
+ padding-top: 20px;
+ font-size: 15px;
+
+
+ }
+ .subheading{
+   font-size: 20px;
+   color: #424141;
+   font-weight: bold;
+   padding-top:30px;
+
+ }
+ .containerClass{
+   padding-top: 100px ;
+
+ }
+
+ .iconspad{
+   padding-right: 40px;
+   padding-left:40px;
+ }
+ .myclass{
+
+
+   padding: 50px;
+   margin: 20px;
+   background-color: #e2e8f0;
+ }
+ .headsub{
+   font-size: 20px;
+   color: #424141;
+   font-weight: bold;
+
+ }
+ .imgclass{
+   padding-top: 14px;
+   padding-right: 10px;
+ }
+ .rowpad{
+   padding-top:70px;
+ }
+ .btnclass{
+   color: #E05E84;
+   background-color: white;
+   padding: 10px 20px 10px 20px;
+   border: 2px solid #E05E84;
+ }
+ .btn-secondary{
+
+   background-color: #F5F8FA;
+   border: none;
+   color: #424141;
+ }
+ .testclass{
+   padding-top: 20px;
+ }
+
+ .card{
+   height:190px;
+ }
+
+ .imgclass2{
+   height: 50%;
+   width:50%
+ }
+
+ .rowpad2{
+   padding-top: 30px;
+   padding-bottom: 70px;
+ }
+
+ .card-body{
+   padding:30px
+ }
+
+ .btn-grad {background: rgb(173,22,111);
+   background: linear-gradient(90deg, rgba(173,22,111,1) 0%, rgba(249,80,86,1) 100%);
+   border: none;
+   color: white;
+   padding: 10px 25px;
+   text-align: center;
+
+ }
+
+ .bottompad{
+ padding-bottom: 185px;
+ }
+ .myrow{
+   padding-top: 20px;
+   width: 150px;
+ }

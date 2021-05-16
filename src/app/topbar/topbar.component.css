@@ -1,0 +1,31 @@
+
+.logo {
+  height: 70%;
+  width: 70%;
+}
+
+
+.btn-grad {background: rgb(173,22,111);
+  background: linear-gradient(90deg, rgba(173,22,111,1) 0%, rgba(249,80,86,1) 100%);
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+
+}
+.navbar {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 5;
+  box-shadow: 0 10px 6px -12px black;
+  font-family: "balooBold";
+}
+
+
+  .navbar-brand {
+    font-size: 30px;
+  }
+
+
+

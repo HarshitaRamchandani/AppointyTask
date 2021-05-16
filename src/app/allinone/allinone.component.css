@@ -1,0 +1,59 @@
+.demo{
+  font-family: 'Varela Round', sans-serif;
+}
+
+.maintext{
+  font-size: 35px;
+  color: #424141;
+  font-weight: bold;
+  text-align: center;
+}
+.subtext{
+  padding-top: 10px;
+  font-size: 18px;
+  color: #8d8585;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.subsubtext{
+  color: #8d8585;
+padding-top: 20px;
+font-size: 15px;
+
+
+}
+.subheading{
+  font-size: 20px;
+  color: #424141;
+  font-weight: bold;
+
+}
+.containerClass{
+  padding-top: 100px ;
+}
+
+.iconspad{
+  padding-right: 40px;
+  padding-left:40px;
+}
+.myclass{
+
+
+  padding: 50px;
+  margin: 20px;
+  background-color: #e2e8f0;
+}
+.headsub{
+  font-size: 20px;
+  color: #424141;
+  font-weight: bold;
+
+}
+.imgclass{
+  padding-top: 14px;
+  padding-right: 10px;
+}
+.rowpad{
+  padding-top:70px;
+}

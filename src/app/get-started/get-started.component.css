@@ -1,0 +1,30 @@
+.demo{
+  font-family: 'Varela Round', sans-serif;
+}
+
+.maintext{
+  font-size: 35px;
+  color: #424141;
+  font-weight: bold;
+}
+.subtext{
+  padding-top: 10px;
+  font-size: 20px;
+  color: #8d8585;
+}
+.subsubtext{
+  color: #8d8585;
+  padding-top:30px;
+}
+.containerClass{
+  padding-top: 100px;
+
+}
+.btn-grad {background: rgb(173,22,111);
+  background: linear-gradient(90deg, rgba(173,22,111,1) 0%, rgba(249,80,86,1) 100%);
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+
+}
